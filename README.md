@@ -33,6 +33,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![](C:\Users\toshiba\Desktop\github.png)
+![](https://resmim.net/cdn/2022/04/21/ENeGC.png)
 
 [Patika.dev](https://www.patika.dev/tr)

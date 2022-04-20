@@ -32,3 +32,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![](C:\Users\toshiba\Desktop\github.png)
+
+[Patika.dev](https://www.patika.dev/tr)
